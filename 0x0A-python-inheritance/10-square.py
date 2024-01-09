@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""Defines a class Square based on 9-rectangle.py.
+
+"""Defines a class Square based on 9-rectangle.py
 
 Attributes:
     width (int): width of the rectangle.
@@ -8,4 +9,3 @@ Attributes:
 
 
 Rectangle = __import__('9-rectangle').Rectangle
-
